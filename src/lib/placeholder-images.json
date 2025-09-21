@@ -1,0 +1,71 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "accommodation-1",
+      "description": "A modern PG accommodation",
+      "imageUrl": "https://picsum.photos/seed/101/600/400",
+      "imageHint": "modern apartment"
+    },
+    {
+      "id": "accommodation-2",
+      "description": "A cozy student hostel",
+      "imageUrl": "https://picsum.photos/seed/102/600/400",
+      "imageHint": "hostel room"
+    },
+    {
+      "id": "accommodation-3",
+      "description": "A shared room for students",
+      "imageUrl": "https://picsum.photos/seed/103/600/400",
+      "imageHint": "student room"
+    },
+    {
+      "id": "accommodation-4",
+      "description": "A single room for rent",
+      "imageUrl": "https://picsum.photos/seed/104/600/400",
+      "imageHint": "cozy room"
+    },
+    {
+      "id": "food-1",
+      "description": "A popular student restaurant",
+      "imageUrl": "https://picsum.photos/seed/201/600/400",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "food-2",
+      "description": "Healthy tiffin service",
+      "imageUrl": "https://picsum.photos/seed/202/600/400",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "food-3",
+      "description": "A street food stall",
+      "imageUrl": "https://picsum.photos/seed/203/600/400",
+      "imageHint": "street food"
+    },
+    {
+      "id": "food-4",
+      "description": "A cafe with free wifi",
+      "imageUrl": "https://picsum.photos/seed/204/600/400",
+      "imageHint": "cafe interior"
+    },
+    {
+      "id": "shop-1",
+      "description": "A stationery shop",
+      "imageUrl": "https://picsum.photos/seed/301/600/400",
+      "imageHint": "stationery shop"
+    },
+    {
+      "id": "shop-2",
+      "description": "A university uniform store",
+      "imageUrl": "https://picsum.photos/seed/302/600/400",
+      "imageHint": "clothing store"
+    },
+    {
+      "id": "shop-3",
+      "description": "A general convenience store",
+      "imageUrl": "https://picsum.photos/seed/303/600/400",
+      "imageHint": "convenience store"
+    }
+  ]
+}
